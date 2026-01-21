@@ -29,9 +29,17 @@ Dự án này là một hệ thống mô phỏng giải mê cung sử dụng h�
 Clone project và cài đặt các thư viện cần thiết:
 
 ```bash
+# Clone kho lưu trữ về máy tính của bạn
 git clone https://github.com/nguyen-minh-16-06/AOE_WarriorOfTheMaze.git
+
+# Điều hướng đến thư mục của dự án
 cd AOE_WarriorOfTheMaze
 
+# Tạo và kích hoạt môi trường ảo
+python -m venv venv
+venv\Scripts\activate
+
+# Cài đặt các thư viện cần thiết
 pip install -r requirements.txt
 ```
 
