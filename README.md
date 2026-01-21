@@ -62,11 +62,11 @@ results/training/training_log.csv
 ```
 
 - Sinh các biểu đổ:
-    - Số Epsilon trong một Eposide.png
+    - Số Epsilon trong một Eposide
  
-    - Số bước trong một Episode.png
+    - Số bước trong một Episode
   
-    - Phần thưởng trung bình trong 100 tập.png
+    - Phần thưởng trung bình trong 100 tập
 
 - Lưu model huấn luyện tại:
 
@@ -130,8 +130,8 @@ python main.py
 ```bash
 results/test/
 ├── run_log.csv
-├── Thời gian tìm ra mục tiêu của 1 Episode.png
-└── Số bước trong một Episode.png
+├── Thời gian tìm ra mục tiêu của 1 Episode
+└── Số bước trong một Episode
 ```
 
 ## Kết quả đầu ra
